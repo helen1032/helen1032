@@ -3,5 +3,4 @@ I am a Comp Sci Undergrad at UNC Charlotte! Currently immersed in the exciting w
 
 - 🔭 I’m currently working on a Clock-in/Clock-out project using C# and Window Forms.
 - 🌱 I’m currently learning C and C#
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helen1032&layout=donut-vertical)](https://github.com/helen1032/github-readme-stats)
+
